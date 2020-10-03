@@ -1,0 +1,54 @@
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.header {
+    text-align: center;
+}
+
+.header p {
+    margin-top: -20px;
+}
+
+.konten {
+    width: 60%;
+    float: left;   
+}
+
+.konten p {
+    text-align: justify;
+}
+
+.konten1 h3 {
+    text-align: center;
+}
+
+figure, figcaption {
+    align-content: center;
+    text-align: center;
+}
+
+aside{
+    width: 35%;
+    float: right;
+    text-align: justify;
+}
+
+aside img{
+    width: 200px;
+    margin-left: 75px;
+}
+
+.footer {
+    clear: both;
+}
+
+.nama, .komen {
+    padding: 10px;
+}
+
+button {
+    margin: 10px;
+    padding: 30px;
+}
